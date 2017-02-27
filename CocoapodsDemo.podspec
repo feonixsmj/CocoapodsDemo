@@ -5,8 +5,8 @@ s.summary      = "CocoapodsDemo"
 s.homepage     = "https://github.com/feonixsmj/CocoapodsDemo"
 s.license      = { :type => "MIT", :file => "LICENSE" }
 s.author       = { "feonixsmj" => "1527863283@qq.com" }
-s.platform     = :ios, "7.0"
-s.ios.deployment_target = "7.0"
+s.platform     = :ios
+s.ios.deployment_target = "8.0"
 s.source       = { :git => 'https://github.com/feonixsmj/CocoapodsDemo.git', :tag => s.version }
 
 s.source_files  = 'CocoapodsDemo/**/*.{h,m}'
