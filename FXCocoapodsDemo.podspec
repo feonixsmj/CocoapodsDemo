@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name         = "CocoapodsDemo"
+s.name         = "FXCocoapodsDemo"
 s.version      = "1.0.2"
 s.summary      = "CocoapodsDemo"
 s.homepage     = "https://github.com/feonixsmj/CocoapodsDemo"
